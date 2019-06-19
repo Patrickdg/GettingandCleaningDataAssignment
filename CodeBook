@@ -1,6 +1,10 @@
 CODE BOOK (tidy.txt)
 Description of the variables and labels found within the “tidy.txt” dataset. 
 
+Notes: 
+  Subject + activity variables below are categorical based on the subject ID of test subjects and the specific activity performed per test per subject
+  Remaining variables are mean and standard deviation data from specific sensor features of the smartphone used during testing (each across 3 axis X, Y, Z). 
+
 VARIABLES:
 
 Subject – ID number of the individual test subjects 
