@@ -1,5 +1,6 @@
 # UCI HAR Dataset, Data Gathering & Cleaning Project  
 This project was completed as part of the Getting & Cleaning Data Course within the Data Science Specialization offered by Coursera.  
+
 The goal of the project was to utilize the UCI HAR motion sensor dataset folder to demonstrate skills in cleaning and manipulating to create a final tidy dataset ready for analysis.  
 
 **run_analysis.R script:**
